@@ -1,1 +1,2 @@
 # HANSEO_UAM_GCS
+HANSEO_GCS.exe를 눌러 실행
