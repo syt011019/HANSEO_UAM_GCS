@@ -1,0 +1,13 @@
+# Target labels
+ mavsdk_tests
+# Source files and their labels
+/home/acus/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests
+/home/acus/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests.rule
+/home/acus/Firmware/build/px4_sitl_default/platforms/posix/CMakeFiles/mavsdk_tests-complete.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-build.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-configure.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-download.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-install.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-mkdir.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-patch.rule
+/home/acus/Firmware/build/px4_sitl_default/external/Stamp/mavsdk_tests/mavsdk_tests-update.rule
